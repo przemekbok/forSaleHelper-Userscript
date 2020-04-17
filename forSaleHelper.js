@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         forSaleHelper
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Helper for board game called 'For Sale' which is available on boardgamearena.com.
